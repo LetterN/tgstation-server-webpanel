@@ -278,7 +278,7 @@
     "view.instance.list.set.offline": "Take Offline",
     "view.instance.list.detatch": "Detatch Instance",
     "view.instance.list.detatch.header": "Are you sure you want to detach the instance \"{name}\"?",
-    "view.instance.list.detatch.footer": "Once detached, the instance will no longer be managed by TGS and you can  delete the files manually or reattach it by creating a new instance at the existing path.",
+    "view.instance.list.detatch.footer": "Once detached, the instance will no longer be managed by TGS and you can delete the files manually or reattach it by creating a new instance at the existing path.",
     "view.instance.list.all_access": "Grant Full Access",
     "view.instance.configmode.0": "Disabled",
     "view.instance.configmode.1": "Authorized users can read/write",
